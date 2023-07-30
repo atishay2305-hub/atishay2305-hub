@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">A software developer and an AWS Certified Cloud Practitioner.</h3>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/atishay2305-hub/Personal-Blog-in-React)
+- 🔭 I’m currently solving Leetcode.
 
 - 🌱 I’m currently learning **Leetcode, Data Structures and Algorithms**
 
