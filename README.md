@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently solving Leetcode
 
-- 🌱 I’m currently learning **Leetcode, Data Structures and Algorithms**
+- 🌱 I’m currently learning **React, sharpening my Data Structures & Algorithms Skills**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects and Leetcode**
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 🤝 I’m looking for help with **Leetcode**
-
+- 🌐 My Website: http://atishayjain.site/
+  
 - 👨‍💻 All of my projects are available at [https://github.com/atishay2305-hub](https://github.com/atishay2305-hub)
 
 - 📝 I regularly write articles on [https://rawdev.hashnode.dev/](https://rawdev.hashnode.dev/)
