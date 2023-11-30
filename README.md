@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://rawdev.hashnode.dev/](https://rawdev.hashnode.dev/)
 
-- 💬 I hold proficiency in **Node.js, Python, MongoDB, Flask **
+- 💬 I hold proficiency in **Node.js**, **Python**, **MongoDB**, **Flask**
 
 - 📫 How to reach me: [atishay23@gmail.com](mailto:atishay23@gmail.com)
 
