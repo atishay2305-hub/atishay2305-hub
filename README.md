@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
-<h3 align="center">A software developer and an AWS Certified Cloud Practitioner.</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 
-<!-- Insert the GIF here -->
-<p align="center">
-  <img src="hackergif.gif" width="480" height="360" alt="Hacker GIF"/>
-</p>
+<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
 
 - 🔭 I’m currently solving Leetcode
 
