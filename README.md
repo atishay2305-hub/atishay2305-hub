@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
-(https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
-
-
 - 🔭 I’m currently solving Leetcode
 
 - 🌱 I’m currently learning **React, sharpening my Data Structures & Algorithms Skills**
