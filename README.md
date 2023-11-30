@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
-- 🔭 I’m currently practicing data structures and algorithms and building few personal projects in MERN.
-
+- 🔭 I’m currently practicing data structures and algorithms and building few personal projects in MERN
+  
 - 🌱 I’m learning **React**, **AWS**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
