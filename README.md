@@ -9,7 +9,7 @@
 
 - 🌐 My Website: [http://atishayjain.site/](http://atishayjain.site/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/atishay2305-hub](https://github.com/atishay2305-hub)
+- 👨‍💻 All of my projects are available at [GitHub Repository Page](https://github.com/atishay2305-hub?tab=repositories)
 
 - 📝 I regularly write articles on [https://rawdev.hashnode.dev/](https://rawdev.hashnode.dev/)
 
