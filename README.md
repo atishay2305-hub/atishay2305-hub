@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
-- 🔭 I’m currently solving Leetcode
+- 🔭 I’m currently practising data structures and algorithms and busy with college work.
 
-- 🌱 I’m currently learning **React, sharpening my Data Structures & Algorithms Skills**
+- 🌱 I’m learning **React, **AWS **
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://rawdev.hashnode.dev/](https://rawdev.hashnode.dev/)
 
-- 💬 Ask me about **Node.js, AWS, Python**
+- 💬 I hold proficiency in **Node.js, Python, MongoDB, Flask **
 
 - 📫 How to reach me: [atishay23@gmail.com](mailto:atishay23@gmail.com)
 
