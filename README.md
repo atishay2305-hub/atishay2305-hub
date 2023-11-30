@@ -15,4 +15,6 @@
 
 - 💬 I hold proficiency in **Node.js**, **Python**, **MongoDB**, **Flask**
 
+- ☁️ I am a AWS Certified Cloud Practitioner
+
 - 📫 How to reach me: [atishay23@gmail.com](mailto:atishay23@gmail.com) , [https://www.linkedin.com/in/atishay23/](https://www.linkedin.com/in/atishay23/)
