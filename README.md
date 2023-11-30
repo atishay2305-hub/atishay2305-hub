@@ -16,5 +16,3 @@
 - 💬 I hold proficiency in **Node.js**, **Python**, **MongoDB**, **Flask**
 
 - 📫 How to reach me: [atishay23@gmail.com](mailto:atishay23@gmail.com)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EdQKfmyyNmYcKIPFWC9tflZcqieEQBH/view?usp=sharing](https://drive.google.com/file/d/1_EdQKfmyyNmYcKIPFWC9tflZcqieEQBH/view?usp=sharing)
