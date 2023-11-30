@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
-<h3 align="center">Passionate Software Engineer</h3>
+<h3 align="center">Passionate about Programming, Cloud Computing and Software Engineering</h3>
 
 - 🔭 I’m currently practicing data structures and algorithms and building few personal projects in MERN
   
