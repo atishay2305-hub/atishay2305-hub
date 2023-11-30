@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Engineer</h3>
 
-- 🔭 I’m currently practising data structures and algorithms and busy with college work.
+- 🔭 I’m currently practicing data structures and algorithms and building few personal projects in MERN.
 
 - 🌱 I’m learning **React**, **AWS**
 
