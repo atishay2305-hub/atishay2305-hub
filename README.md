@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently practising data structures and algorithms and busy with college work.
 
-- 🌱 I’m learning **React, **AWS **
+- 🌱 I’m learning **React**, **AWS**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
