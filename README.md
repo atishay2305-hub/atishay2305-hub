@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently practicing data structures and algorithms and building few personal projects in MERN
   
-- 🌱 I’m learning **React**, **AWS**
+- 🌱 I’m learning **MERN Stack**, **AWS**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
