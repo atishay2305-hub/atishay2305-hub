@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repository Page](https://github.com/atishay2305-hub?tab=repositories)
 
-- 📝 I regularly write articles on [https://rawdev.hashnode.dev/](https://rawdev.hashnode.dev/)
-
 - 💬 I hold proficiency in **Node.js**, **Python**, **MongoDB**, **Flask**
 
 - ☁️ I am a AWS Certified Cloud Practitioner
