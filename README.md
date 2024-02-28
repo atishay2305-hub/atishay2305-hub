@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/atishay23/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d6wTcNu86A08H1R5HGH5BCe7b27N8r4B/view?usp=drive_link](https://drive.google.com/file/d/1d6wTcNu86A08H1R5HGH5BCe7b27N8r4B/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atishay23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atishay23/" height="30" width="40" /></a>
