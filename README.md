@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atishay2305-hub" alt="atishay2305-hub" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Data Structures & Algorithms**
+- 🌱 I’m currently working on **https://github.com/verdetea22/LeafLog**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
