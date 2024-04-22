@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently working on **https://github.com/verdetea22/LeafLog**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **IOS Development Projects**
 
-- 🤝 I’m looking for help with **React Projects**
+- 🤝 I’m looking for help with **IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://atishayjain.site/](https://atishayjain.site/)
-
-- 💬 Ask me about **Python, AWS, Nodejs, Leetcode**
 
 - 📫 How to reach me **https://www.linkedin.com/in/atishay23/**
 
