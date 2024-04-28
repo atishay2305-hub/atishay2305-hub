@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Developer based in USA</h3>
 
-- 👨‍💻 All of my projects are available at [https://atishayjain.site/](https://atishayjain.site/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/atishay23/**
+- 👨‍💻 Portfolio Website: [https://atishayjain.site/](https://atishayjain.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
