@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">Passionate Software Developer based in USA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atishay2305-hub" alt="atishay2305-hub" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://atishayjain.site/](https://atishayjain.site/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/atishay23/**
