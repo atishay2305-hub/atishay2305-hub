@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
-<h3 align="center">A passionate developer based in US</h3>
+<h3 align="center">Passionate Software Developer based in USA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atishay2305-hub" alt="atishay2305-hub" /></a> </p>
-
-- 🌱 I’m currently working on **https://github.com/verdetea22/LeafLog**
-
-- 👯 I’m looking to collaborate on **IOS Development Projects**
-
-- 🤝 I’m looking for help with **IOS Development**
 
 - 👨‍💻 All of my projects are available at [https://atishayjain.site/](https://atishayjain.site/)
 
