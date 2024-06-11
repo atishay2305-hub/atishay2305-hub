@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Machine learning & Data Science**
 
-- 👨‍💻 All of my projects are available at [atishayjain.site/](atishayjain.site/)
+- 👨‍💻 All of my projects are available at http://atishayjain.site/
 
 - 💬 Ask me about **Python, Software Testing, JavaScript, MERN, AWS, SQL**
 
