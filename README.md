@@ -104,8 +104,7 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhlYThzdnc1eWl5MXZjYm9kczl4dGQ2aG1zNmVkbTB2bGV0cWd4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif 1" />
+<p>
   <img src="https://media.giphy.com/media/8uEN3vEZKibcjQwrJT/giphy.gif?cid=790b7611d8pdpmrzj9b8sth1qimlkb1h5soxl0bm8tn7h54c&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding gif 2" />
 </p>
 
