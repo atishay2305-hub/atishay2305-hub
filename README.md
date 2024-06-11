@@ -104,10 +104,6 @@
   </a> 
 </p>
 
-<p>
-  <img src="https://media.giphy.com/media/8uEN3vEZKibcjQwrJT/giphy.gif?cid=790b7611d8pdpmrzj9b8sth1qimlkb1h5soxl0bm8tn7h54c&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding gif 2" />
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atishay2305-hub&show_icons=true&locale=en&layout=compact" alt="atishay2305-hub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atishay2305-hub&show_icons=true&locale=en" alt="atishay2305-hub" /></p>
